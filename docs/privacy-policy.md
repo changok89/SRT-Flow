@@ -1,9 +1,9 @@
 # SRT Flow Privacy Policy
 
-Last updated: February 15, 2026
+Last updated: February 18, 2026
 
 ## 1. Overview
-SRT Flow provides subtitle generation, translation, and export features on Android devices.
+SRT Flow is a mobile app that provides subtitle generation, translation, and export features on supported devices.
 
 ## 2. Data We Process
 - Video files you select are processed to generate subtitles.
@@ -11,16 +11,16 @@ SRT Flow provides subtitle generation, translation, and export features on Andro
 - Generated subtitle files are saved to your device storage when you choose to export.
 
 ## 3. Third-Party Services
-SRT Flow uses the following third-party SDKs/services:
+SRT Flow may use the following third-party SDKs/services, depending on platform, OS version, and enabled features:
 - Google Mobile Ads (AdMob)
 - Firebase Analytics
 - Firebase Crashlytics
-- Google ML Kit Translate
+- Speech recognition/translation frameworks provided by the operating system or third-party providers (for example, Apple Speech/Translation frameworks or Google ML Kit)
 
 These services may collect device/app usage and diagnostic information according to their own policies.
 
 ## 4. Ads
-SRT Flow displays ads through Google Mobile Ads.
+SRT Flow may display ads through Google Mobile Ads (AdMob).
 
 ## 5. Crash and Analytics Data
 Crash and usage diagnostics may be collected to improve stability and quality.
@@ -32,16 +32,16 @@ We do not sell your personal data. Data handling by third-party SDKs follows eac
 For questions, contact: judasiscariot055@gmail.com
 
 ## 8. Changes
-This policy may be updated. The latest version is published at this page.
+This policy may be updated. The latest version is published on this page.
 
 ---
 
 # SRT Flow 개인정보 처리방침
 
-최종 업데이트: 2026년 2월 15일
+최종 업데이트: 2026년 2월 18일
 
 ## 1. 개요
-SRT Flow는 Android 기기에서 자막 생성, 번역 및 내보내기 기능을 제공합니다.
+SRT Flow는 지원되는 기기에서 자막 생성, 번역 및 내보내기 기능을 제공하는 모바일 앱입니다.
 
 ## 2. 처리하는 데이터
 - 사용자가 선택한 동영상 파일은 자막 생성을 위해 처리됩니다.
@@ -49,16 +49,16 @@ SRT Flow는 Android 기기에서 자막 생성, 번역 및 내보내기 기능�
 - 생성된 자막 파일은 사용자가 내보내기를 선택할 때 기기 저장소에 저장됩니다.
 
 ## 3. 제3자 서비스
-SRT Flow는 다음의 제3자 SDK/서비스를 사용합니다:
+SRT Flow는 플랫폼, OS 버전, 활성화된 기능에 따라 다음 제3자 SDK/서비스를 사용할 수 있습니다:
 - Google Mobile Ads (AdMob)
 - Firebase Analytics
 - Firebase Crashlytics
-- Google ML Kit Translate
+- 운영체제 또는 제3자 제공 음성 인식/번역 프레임워크 (예: Apple Speech/Translation 프레임워크, Google ML Kit)
 
 이러한 서비스는 각자의 정책에 따라 기기/앱 사용 및 진단 정보를 수집할 수 있습니다.
 
 ## 4. 광고
-SRT Flow는 Google Mobile Ads를 통해 광고를 표시합니다.
+SRT Flow는 Google Mobile Ads(AdMob)를 통해 광고를 표시할 수 있습니다.
 
 ## 5. 오류 및 분석 데이터
 안정성과 품질 개선을 위해 오류 및 사용 진단 데이터가 수집될 수 있습니다.
@@ -76,10 +76,10 @@ SRT Flow는 Google Mobile Ads를 통해 광고를 표시합니다.
 
 # SRT Flow プライバシーポリシー
 
-最終更新日: 2026年2月15日
+最終更新日: 2026年2月18日
 
 ## 1. 概要
-SRT Flowは、Android端末で字幕の生成、翻訳、エクスポート機能を提供します。
+SRT Flowは、対応デバイス上で字幕の生成、翻訳、エクスポート機能を提供するモバイルアプリです。
 
 ## 2. 処理するデータ
 - 選択した動画ファイルは字幕生成のために処理されます。
@@ -87,16 +87,16 @@ SRT Flowは、Android端末で字幕の生成、翻訳、エクスポート機�
 - 生成された字幕ファイルは、エクスポートを選択した際に端末のストレージに保存されます。
 
 ## 3. サードパーティサービス
-SRT Flowは以下のサードパーティSDK/サービスを使用します:
+SRT Flowは、プラットフォーム、OSバージョン、および有効化された機能に応じて、以下のサードパーティSDK/サービスを利用する場合があります:
 - Google Mobile Ads (AdMob)
 - Firebase Analytics
 - Firebase Crashlytics
-- Google ML Kit Translate
+- OSまたはサードパーティが提供する音声認識/翻訳フレームワーク（例: Apple Speech/Translation フレームワーク、Google ML Kit）
 
 これらのサービスは、それぞれのポリシーに従って端末/アプリの使用状況および診断情報を収集する場合があります。
 
 ## 4. 広告
-SRT FlowはGoogle Mobile Adsを通じて広告を表示します。
+SRT FlowはGoogle Mobile Ads（AdMob）を通じて広告を表示する場合があります。
 
 ## 5. クラッシュおよび分析データ
 安定性と品質の向上のため、クラッシュおよび使用診断データが収集される場合があります。

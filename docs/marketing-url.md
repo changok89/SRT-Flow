@@ -2,19 +2,21 @@
 
 Last updated: February 18, 2026
 
-SRT Flow is an iOS app that helps you generate subtitles from video audio, translate them, and export subtitle files quickly.
+SRT Flow is a mobile app that helps you generate subtitles from video audio, translate them, and export subtitle files quickly.
 
 ## Key features
-- Import videos from Files or Photos
-- Generate subtitles from speech (Speech Framework)
-- Translate subtitles with Apple Translation Framework (iOS 18+)
+- Import videos from your device storage (Files, Photos, or equivalent sources)
+- Generate subtitles from speech recognition
+- Translate subtitles using available translation engines (availability may vary by platform and OS version)
 - Keep source text only mode (for external translation workflow)
 - Preview subtitles with video playback
 - Export subtitle files as SRT and VTT
 - Export source text files as TXT and CSV
 - Bilingual subtitle display options
 
-## Supported languages (current app build)
+## Supported languages
+Language support may vary by platform, OS version, and selected engine.
+Current primary language set includes:
 - Japanese
 - Korean
 - English
@@ -34,19 +36,21 @@ SRT Flow is an iOS app that helps you generate subtitles from video audio, trans
 
 최종 업데이트: 2026년 2월 18일
 
-SRT Flow는 동영상 오디오에서 자막을 생성하고, 번역하고, 파일로 내보낼 수 있도록 돕는 iOS 앱입니다.
+SRT Flow는 동영상 오디오에서 자막을 생성하고, 번역하고, 파일로 내보낼 수 있도록 돕는 모바일 앱입니다.
 
 ## 주요 기능
-- 파일/사진 앱에서 동영상 가져오기
-- 음성 인식 기반 자막 생성 (Speech Framework)
-- Apple Translation Framework 기반 자막 번역 (iOS 18+)
+- 기기 저장소(파일, 사진 또는 이에 준하는 소스)에서 동영상 가져오기
+- 음성 인식 기반 자막 생성
+- 사용 가능한 번역 엔진으로 자막 번역 (플랫폼 및 OS 버전에 따라 제공 기능이 달라질 수 있음)
 - 원문 유지 모드 제공 (외부 번역 워크플로우용)
 - 동영상 재생 화면에서 자막 미리보기
 - SRT, VTT 형식으로 자막 내보내기
 - TXT, CSV 형식으로 원문 내보내기
 - 이중 자막 표시 옵션 제공
 
-## 현재 지원 언어
+## 지원 언어
+지원 언어는 플랫폼, OS 버전, 선택한 엔진에 따라 달라질 수 있습니다.
+현재 주요 언어 구성은 다음과 같습니다.
 - 일본어
 - 한국어
 - 영어
